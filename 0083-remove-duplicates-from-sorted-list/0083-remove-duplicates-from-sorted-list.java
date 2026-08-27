@@ -8,22 +8,24 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+ import java.util.Set;
+ import java.util.HashSet;
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
+        Set<Integer> seen = new HashSet<>();
         ListNode curr = head;
+        ListNode prev = null;
         while(curr!=null){
-            ListNode runner = curr;
-            while(runner.next!=null){
-                if(curr.val == runner.next.val){
-                    runner.next = runner.next.next;
-                }
-                else{
-                    runner = runner.next;
-                }
+            if(seen.contains(curr.val)){
+                prev.next = curr.next;
+                
+            }
+            else{
+                seen.add(curr.val);
+                prev = curr;
             }
             curr = curr.next;
         }
-
         return head;
     }
 }
