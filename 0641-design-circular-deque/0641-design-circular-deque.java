@@ -18,13 +18,8 @@ class MyCircularDeque {
             list[front] = value;
             return true;
         }
-        else if(front == 0){
-            front = list.length-1;
-            list[front] = value;
-            return true;
-        }
-        else{
-            front--;
+        else {
+            front = (front-1 + list.length)%list.length;
             list[front] = value;
             return true;
         }
@@ -40,13 +35,8 @@ class MyCircularDeque {
             list[rear] = value;
             return true;
         }
-        else if(rear==list.length-1){
-            rear = 0;
-            list[rear] = value;
-            return true;
-        }
-        else{
-            rear++;
+        else {
+            rear = (rear+1)%list.length;
             list[rear] = value;
             return true;
         }
@@ -61,12 +51,8 @@ class MyCircularDeque {
             rear = -1;
             return true;
         }
-        else if(front==list.length-1){
-            front = 0;
-            return true;
-        }
-        else{
-            front++;
+        else {
+            front = (front+1)%list.length;
             return true;
         }
     }
@@ -80,12 +66,8 @@ class MyCircularDeque {
             rear = -1;
             return true;
         }
-        else if(rear==0){
-            rear = list.length-1;
-            return true;
-        }
-        else{
-            rear--;
+        else {
+            rear = (rear-1 + list.length)%list.length;
             return true;
         }
     }
