@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0237-delete-node-in-a-linked-list](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0622-design-circular-queue](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0641-design-circular-deque/) | Medium |
+| [0707-design-linked-list](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0707-design-linked-list/) | Medium |
 | [0725-split-linked-list-in-parts](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0725-split-linked-list-in-parts/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0641-design-circular-deque/) | Medium |
+| [0707-design-linked-list](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0707-design-linked-list/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1472-design-browser-history](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1472-design-browser-history/) | Medium |
 ## Queue
