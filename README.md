@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0049-group-anagrams](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0049-group-anagrams](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0217-contains-duplicate](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -205,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
