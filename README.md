@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0641-design-circular-deque/) | Medium |
+| [0724-find-pivot-index](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 ## Concurrency
 | Problem Name | Difficulty |
 | ------- | ------- |
