@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0092-reverse-linked-list-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0622-design-circular-queue](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0622-design-circular-queue/) | Medium |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
