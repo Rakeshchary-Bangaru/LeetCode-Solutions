@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0621-task-scheduler](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0621-task-scheduler](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0621-task-scheduler](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0622-design-circular-queue](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0641-design-circular-deque/) | Medium |
 | [0724-find-pivot-index](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
@@ -235,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Monotonic Queue
@@ -259,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0621-task-scheduler](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -274,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0621-task-scheduler](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
