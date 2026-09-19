@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0070-climbing-stairs](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0070-climbing-stairs](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Greedy
@@ -391,5 +393,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
