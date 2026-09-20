@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -364,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -380,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
