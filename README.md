@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -346,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
