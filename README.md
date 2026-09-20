@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1472-design-browser-history](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1544-make-the-string-great](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1544-make-the-string-great/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1544-make-the-string-great/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
