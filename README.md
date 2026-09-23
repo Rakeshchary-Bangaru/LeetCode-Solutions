@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0060-permutation-sequence](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0060-permutation-sequence](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0143-reorder-list](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
