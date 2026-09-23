@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -487,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 ## Binary Lifting
