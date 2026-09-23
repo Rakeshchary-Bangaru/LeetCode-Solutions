@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0709-to-lower-case](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0767-reorganize-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
