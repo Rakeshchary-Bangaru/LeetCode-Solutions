@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -396,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -413,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -441,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
