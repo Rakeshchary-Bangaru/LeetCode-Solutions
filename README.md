@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1381-design-a-stack-with-increment-operation](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1472-design-browser-history](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -414,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -576,4 +580,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 <!---LeetCode Topics End-->
