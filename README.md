@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0392-is-subsequence](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0542-01-matrix](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0542-01-matrix/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0542-01-matrix](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0622-design-circular-queue](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0622-design-circular-queue/) | Medium |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0542-01-matrix](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
@@ -582,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0542-01-matrix/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 <!---LeetCode Topics End-->
