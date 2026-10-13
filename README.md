@@ -389,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -415,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0542-01-matrix](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0542-01-matrix/) | Medium |
@@ -439,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -604,4 +607,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
