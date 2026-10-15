@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0283-move-zeroes](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
