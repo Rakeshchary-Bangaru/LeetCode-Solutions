@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-snakes-and-ladders](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0704-binary-search](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -395,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Concurrency
 | Problem Name | Difficulty |
 | ------- | ------- |
