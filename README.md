@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0992-subarrays-with-k-different-integers](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -344,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -416,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0621-task-scheduler](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
