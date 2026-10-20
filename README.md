@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -404,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -726,4 +729,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3886-sum-of-sortable-integers](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 <!---LeetCode Topics End-->
