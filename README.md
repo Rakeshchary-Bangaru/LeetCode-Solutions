@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
