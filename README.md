@@ -316,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1472-design-browser-history](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1472-design-browser-history/) | Medium |
@@ -501,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-keys-and-rooms](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
@@ -529,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0993-cousins-in-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
@@ -537,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -717,6 +721,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-snakes-and-ladders](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
