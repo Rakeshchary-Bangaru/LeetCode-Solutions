@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
