@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1472-design-browser-history](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -445,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -468,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-reorganize-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
