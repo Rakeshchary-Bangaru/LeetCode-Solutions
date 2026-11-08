@@ -344,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-next-greater-node-in-linked-list](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -505,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1267-count-servers-that-communicate](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -554,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -585,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -595,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -780,6 +785,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
