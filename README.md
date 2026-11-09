@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0120-triangle](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0120-triangle/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0120-triangle](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0120-triangle/) | Medium |
 | [0130-surrounded-regions](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
