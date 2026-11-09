@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0075-sort-colors](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
@@ -780,6 +782,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0130-surrounded-regions](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0542-01-matrix/) | Medium |
