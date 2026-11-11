@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -505,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
