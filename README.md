@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1544-make-the-string-great](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0622-design-circular-queue](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0641-design-circular-deque/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -372,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -407,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -434,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -456,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -849,6 +855,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Fermat's Little Theorem
 | Problem Name | Difficulty |
