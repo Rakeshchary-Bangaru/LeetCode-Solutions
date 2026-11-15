@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-minimum-falling-path-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
@@ -364,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-cherry-pickup-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1472-design-browser-history](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
@@ -543,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Concurrency
