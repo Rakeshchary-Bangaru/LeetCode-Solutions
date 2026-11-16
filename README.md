@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1544-make-the-string-great/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -426,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
