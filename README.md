@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0542-01-matrix](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0542-01-matrix/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
@@ -886,4 +888,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
