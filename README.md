@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-cherry-pickup-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
