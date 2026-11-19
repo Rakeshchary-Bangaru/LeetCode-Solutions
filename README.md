@@ -288,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
@@ -381,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1882-process-tasks-using-servers](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -518,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
