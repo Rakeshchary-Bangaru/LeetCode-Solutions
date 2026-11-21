@@ -370,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0909-snakes-and-ladders/) | Medium |
+| [0912-sort-an-array](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -480,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0767-reorganize-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
+| [0912-sort-an-array](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
@@ -529,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
+| [0912-sort-an-array](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -685,6 +688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
+| [0912-sort-an-array](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -781,6 +785,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0912-sort-an-array](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -793,6 +798,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0912-sort-an-array](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Tournament Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -933,4 +939,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
