@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
+| [3360-stone-removal-game](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -463,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [3360-stone-removal-game](https://github.com/Rakeshchary-Bangaru/LeetCode-Solutions/tree/main/3360-stone-removal-game/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
